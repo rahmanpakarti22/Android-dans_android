@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="appmain" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/Color_1</item>
+        <item name="android:windowBackground">@color/Color_2</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/Color_1</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+</resources>

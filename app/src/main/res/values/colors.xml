@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="Color_1">#325288</color>
+    <color name="Color_2">#FBFBFB</color>
+    <color name="Color_3">#231E23</color>
+    <color name="Color_4">#CEACACAC</color>
+    <color name="Color_5">#D3E8E3E3</color>
+    <color name="Color_6">#BF360C</color>
+    <color name="btn_prsdtrp">#0DB7B7B7</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Android Dans</string>
+    <string name="facebook_app_id">3630192460526633</string>
+    <string name="fb_login_protocol_scheme">fb3630192460526633</string>
+    <string name="facebook_client_token">4b1f5cf2189eb4fe7c1db305fb527378</string>
+    <string name="client_id">602703105787-rgjieb1t5ak9hjse5hv3i973lit8ehg8.apps.googleusercontent.com</string>
+</resources>

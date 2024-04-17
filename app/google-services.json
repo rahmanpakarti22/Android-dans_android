@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602703105787",
+    "project_id": "android-dans-android",
+    "storage_bucket": "android-dans-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602703105787:android:924528972cf5402e092a5e",
+        "android_client_info": {
+          "package_name": "com.example.appandroiddans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602703105787-d6ubo9gpphvrvtr43e651jqofnmtutkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appandroiddans",
+            "certificate_hash": "a8b94df426a37ec7c70a9ac7130df0edf7b55b63"
+          }
+        },
+        {
+          "client_id": "602703105787-2t82mnpifefng5aaa1i6365n27c2popf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWH8Vd40XCfxhNuTi26-wKTagEYyKGNFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602703105787-2t82mnpifefng5aaa1i6365n27c2popf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
